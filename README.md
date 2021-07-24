@@ -22,6 +22,6 @@ We will use pertubations functions to generate new premises. These premises need
 Resulting in multiple premises for one hypothesis. Now one hypothesis can have different labels, when related to a different premises. Thus the system can no
 longer associate hypotheses with certain artifacts with only one label. 
 
-## Code(Notebooks)
+## Code (Notebooks)
 I tried to make the notebooks easy to follow. However any questions or suggestions for improvement are very welcome.
 
