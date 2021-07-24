@@ -4,7 +4,6 @@ Mitigating hypothesis-only bias in SNLI dataset with data augmentation
 
 Table of Content
 =============
-  * [Table of Contents](#table-of-content)
   * [Project Description](#project-description)
   * [Method](#method)
   * [Code](#code)
