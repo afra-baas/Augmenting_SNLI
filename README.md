@@ -10,7 +10,7 @@ Table of Content
 
 ## Project Description
 For my Thesis I mitigated the hypothesis-only bias in the SNLI dataset.
-Recent studies like (ref ...) have shown that the hypothesis annotation artifacts that enable hypothesis-only classifiers to already classify hypothesis with a high accuracy. The inferences with these correctly classified hypotheses are called easy examples. Then they give a big boost to the NLI performance when in these cases it's cheating the task of classifying inference. 
+Recent studies from Gururangan et al.(2018) and Poliak et al. (2018) have shown that the hypothesis annotation artifacts that enable hypothesis-only classifiers to already classify hypothesis with a high accuracy. The inferences with these correctly classified hypotheses are called easy examples. Then they give a big boost to the NLI performance when in these cases it's cheating the task of classifying inference. 
 The approach to mitigate this hypothesis-only bias is explained in the section Method.
 
 ## Method
@@ -23,4 +23,5 @@ longer associate hypotheses with certain artifacts with only one label.
 
 ## Code (Notebooks)
 I tried to make the notebooks easy to follow. However any questions or suggestions for improvement are very welcome.
+The datasets can be downloaded from here, https://drive.google.com/drive/folders/1XAwCJ6oNBTjwkSMMQClx4T_09XNdprhC?usp=sharing.
 
